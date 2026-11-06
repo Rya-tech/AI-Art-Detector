@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Omelette",
+        "ingredients": [
+            "egg",
+            "onion",
+            "salt"
+        ],
+        "steps": "Beat eggs, add onion and salt, then cook on a pan."
+    },
+    {
+        "name": "Cheese Sandwich",
+        "ingredients": [
+            "bread",
+            "cheese",
+            "butter"
+        ],
+        "steps": "Butter the bread, add cheese, and toast it."
+    },
+    {
+        "name": "Fried Rice",
+        "ingredients": [
+            "rice",
+            "egg",
+            "soy sauce"
+        ],
+        "steps": "Cook rice with egg and soy sauce."
+    },
+    {
+        "name": "French Toast",
+        "ingredients": [
+            "bread",
+            "egg",
+            "milk"
+        ],
+        "steps": "Dip bread in egg and milk mixture, then fry."
+    },
+    {
+        "name": "cake",
+        "ingredients": [
+            "egg",
+            "milk",
+            "flour"
+        ],
+        "steps": "add milk,and egg white.stir then add flour and bake in over"
+    }
+]
