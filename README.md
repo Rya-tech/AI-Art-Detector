@@ -35,11 +35,10 @@ Human-created artwork.
 4. Open the local URL displayed in the terminal.
 
 ## Model
-Add information about your trained model
-and its architecture here.
+works on resnt50 model
 
 ## Dataset
-Add your dataset source and description.
+dataset from kaggle and custom hand-drawn dataset
 
 ## Author
-Your Name
+Surya
