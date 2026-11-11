@@ -35,10 +35,10 @@ Human-created artwork.
 4. Open the local URL displayed in the terminal.
 
 ## Model
-Works on resnt50 model
+Works on Resnet50 model
 
 ## Dataset
-Dataset from kaggle and custom hand-drawn dataset
+Dataset from Kaggle and custom hand-drawn dataset
 
 ## Author
-Surya
+Surya A
