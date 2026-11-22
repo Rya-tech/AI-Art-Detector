@@ -1,4 +1,4 @@
-# python -m streamlit run "c:/Users/surya/OneDrive/Documents/AI_Art_Detector/app.py"
+# python -m streamlit run "C:\Projects\AI_Art_Detector/app.py"
 import streamlit as st
 from PIL import Image
 import torch
